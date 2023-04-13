@@ -12,6 +12,6 @@ Project 2: This is a Java application that I built using Java and Javaswing. It 
 I'm constantly learning and exploring new technologies to expand my skills as a developer. Some of the resources that have helped me in my journey so far include online courses, books, and tutorials. I'm also an active member of online programming communities, where I learn from other developers and contribute to discussions.
 
 # Contact
-If you would like to get in touch with me, you can reach me via email at [your email address] or through my LinkedIn profile at https://www.linkedin.com/in/ayush-singh05/.
+If you would like to get in touch with me, you can reach me via email at ayushsingh2442@gmail.com or through my LinkedIn profile at https://www.linkedin.com/in/ayush-singh05/.
 
 Thank you for taking the time to read my README file!
